@@ -3,7 +3,7 @@
 [Caroline Conti](https://www.it.pt/Members/Index/4506)<sup>1,2</sup>,
 [Paulo Nunes](https://www.it.pt/Members/Index/457)<sup>1,2</sup>
 [Luís Ducla Soares](https://www.it.pt/Members/Index/511)<sup>1,2</sup><br>
-<sup>1</sup>Instituto Universitário de Lisboa (ISCTE-IUL), <sup>2</sup> Instituto de Telecomunicações<br><br>
+<sup>1</sup>Instituto Universitário de Lisboa (ISCTE-IUL), <sup>2</sup>Instituto de Telecomunicações<br><br>
 IEEE Access, 2023: 
 [Link to our paper](https://ieeexplore.ieee.org/document/10156827)<br>
 <br>
