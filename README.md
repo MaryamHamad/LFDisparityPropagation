@@ -11,7 +11,8 @@ IEEE Access, 2023:
 
 ## Dynamic results:
 The dynamic reslults are available in this repository: 
-<video width="320" height="240" controls>
-  <source src="https://github.com/MaryamHamad/LFDisparityPropagation/blob/main/Disparity%20results.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Dynamic results](https://github.com/MaryamHamad/LFDisparityPropagation/blob/main/Disparity%20results.mp4)
+
+## Metrics:
+[All used metric can be found in this repository](https://github.com/brownvc/lightfielddepth/tree/master/eval)
+
