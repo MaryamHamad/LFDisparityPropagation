@@ -14,5 +14,5 @@ The dynamic reslults are available in this repository:
 [Dynamic results](https://github.com/MaryamHamad/LFDisparityPropagation/blob/main/Disparity%20results.mp4)
 
 ## Metrics:
-[All used metric can be found in this repository](https://github.com/brownvc/lightfielddepth/tree/master/eval)
+[All the used metrics can be found in this repository](https://github.com/brownvc/lightfielddepth/tree/master/eval)
 
